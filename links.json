@@ -172,12 +172,17 @@
         "website": "https://xuan-insr.github.io/",
         "image": "xuan-insr.github.io.ico",
         "description": ""
-    }
-    ,
+    },
     {
         "title": "Knight's Blog",
         "website": "https://www.zxuy.top/",
         "image": "www.zxuy.top.png",
         "description": ""
+    },
+    {
+        "title": "暮瞻 - Dawniew",
+        "website": "https://ralvine.github.io/",
+        "image": "ralvine.github.io.png",
+        "description": "不忘其所始，不求其所终；受而喜之，忘而复之。"
     }
 ]
