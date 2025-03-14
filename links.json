@@ -208,12 +208,17 @@
         "website": "https://blog.cicada000.work/",
         "image": "blog.cicada000.work.ico",
         "description": ""
-    }
-    ,
+    },
     {
         "title": "42号小行星",
         "website": "https://zjutopologist.github.io/",
         "image": "zjutopologist.github.io.png",
         "description": ""
+    },
+    {
+        "title": "坠入星野的月🌙",
+        "website": "https://www.uf4te.cn/",
+        "image": "www.uf4te.cn.jpg",
+        "description": "不以物喜，不以己悲。"
     }
 ]
